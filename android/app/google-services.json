@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902069235624",
+    "firebase_url": "https://ozone-a25d3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ozone-a25d3",
+    "storage_bucket": "ozone-a25d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902069235624:android:759d983c0666f0b88af79d",
+        "android_client_info": {
+          "package_name": "com.example.ojonisasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902069235624-ha3jh2psp4sebpvcrkti7nlibcc4j5pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwHYe8Amlb6rrvmn1Bw4zeO7AaNEdOGFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902069235624-ha3jh2psp4sebpvcrkti7nlibcc4j5pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
