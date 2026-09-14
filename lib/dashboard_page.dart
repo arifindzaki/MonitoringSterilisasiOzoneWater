@@ -634,7 +634,7 @@ class _RunningWarningTextState extends State<RunningWarningText>
             overflow: TextOverflow.visible,
             style: const TextStyle(
               fontSize: 18,
-              fontWeight: FontWeight.bold,  
+              fontWeight: FontWeight.bold,
               color: softRed,
             ),
           ),
